@@ -5,7 +5,7 @@
 
 
 - 🍻 A full stack developer
-- ⚡ Java / Python.
+- ⚡ Java / C# / Php / Python.
 - ♟ Chinese Chess / Chess 
 
 
